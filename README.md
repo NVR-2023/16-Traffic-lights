@@ -1,3 +1,14 @@
+***************************************************************************************************************
+Exercise #15: Traffic lights simulator using React hooks useState() and useEffect()
+Implemented bonus features like cycling through lights, adding and removing lights.
+
+
+By Nuno Rodrigues
+
+Mark received:
+Date: 
+Teacher:
+***************************************************************************************************************
 # Hello World with React boilerplate
 
 Start coding a react application
